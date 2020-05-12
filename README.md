@@ -1,16 +1,10 @@
-# jewelstoreapp
+# Jewel Store App
+A beautiful Flutter design.
 
-A new Flutter application.
+This is a flutter project implementing a beautiful Adobe XD design of Jewel Store in Flutter. 
+The Adobe XD Design is from Mr. Punit Chawla - 
+Link to his video - https://youtu.be/L-F37XIXG1A?list=PLs... 
+Also, I used velocity_x package by Mr. Pawan Kumar for simplicity 😊
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I could not get the neumorphic depth effect as in the design but I was pretty close to it.
+Hope You like it.
